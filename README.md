@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**Mohammad-Yahya6/Mohammad-Yahya6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🎓 Asia Pacific University + Dual Degree with De Montfort UK
+🚀 Currently building: Gymmify + PythonQuest Game 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python, C#, JavaScript, Java 
+- HTML, CSS
+- SQL (MySQL, Postgres, MsSQL)
+- Node.js
+
+---
+
+## 🚀 Projects
+
+### 🌟 Featured Project: Gymmify
+A fitness web app focused on usability and real-world functionality.
+
+Key Features:
+- Exercise database integration  
+- Clean UI designed in Figma  
+- Authentication system (google OAuth)
+
+<img width="1163" height="841" alt="image" src="https://github.com/user-attachments/assets/dccdc86e-e70d-4662-bdf8-0734f974c241" />
+<img width="526" height="599" alt="image" src="https://github.com/user-attachments/assets/6dfeadb2-fab2-48e8-a30f-cb5bc1f5c7a7" />
+
+### C# Restaurant Management System
+A Windows Forms application built in C# featuring:
+- User login system with role-based access  
+- Dynamic menu display from SQL Server database  
+- Order management system with real time item level status tracking  
+- Interactive UI using UserControls and panels  
+
+---
+
+## 📈 Currently
+- Looking for internship opportunities
+- Improving full-stack development skills
+- Apply technical skills and gain real life experience
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohammad-amin-yahya-b26b23381/
+- Email: mohammadyahya0626@gmail.com
