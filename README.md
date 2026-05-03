@@ -24,10 +24,12 @@ Key Features:
 - Clean UI designed in Figma  
 - Authentication system (google OAuth)
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dccdc86e-e70d-4662-bdf8-0734f974c241" height="300"/>
   <img src="https://github.com/user-attachments/assets/6dfeadb2-fab2-48e8-a30f-cb5bc1f5c7a7" height="300"/>
 </p>
+
 
 ### C# Restaurant Management System
 A Windows Forms application built in C# featuring:
